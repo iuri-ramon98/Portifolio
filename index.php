@@ -1,5 +1,7 @@
 <?php
+//inicia a sessão
 session_start();
+//chama o arquivo de configuração
 require 'config.php';
 
 spl_autoload_register(function($class){
