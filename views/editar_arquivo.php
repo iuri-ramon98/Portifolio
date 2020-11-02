@@ -12,7 +12,7 @@
         <form method="POST" >
 
             Nome:<br/>
-            <input type="text" name="nome" value="<?php echo $info['nome']; ?>" /><br/><br/>
+            <input type="text" name="nome_mostrado" value="<?php echo $info['nome_mostrado']; ?>" /><br/><br/>
 
             Descrição:<br/>
             <input type="text" name="descricao" value="<?php echo $info['descricao']; ?>"/><br/><br/>
