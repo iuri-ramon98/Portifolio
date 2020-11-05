@@ -8,9 +8,9 @@
 		<header>
 			<h1>Nome do projeto</h1>
 			<div class="menu">
-				<button class="btn btn-secondary"><a href="<?php echo BASE_URL; ?>home/index">Home</a></button>
-				<button class="btn btn-secondary"><a href="<?php echo BASE_URL; ?>etapa/index">Etapas de desenvolvimento</a></button>
-				<button class="btn btn-secondary"><a href="<?php echo BASE_URL; ?>home/membros">Sobre os membros</a></button>				
+				<button ><a href="<?php echo BASE_URL; ?>home/index">Home</a></button>
+				<button ><a href="<?php echo BASE_URL; ?>etapa/index">Etapas de desenvolvimento</a></button>
+				<button ><a href="<?php echo BASE_URL; ?>home/membros">Sobre os membros</a></button>				
 			</div>
 		</header>
 		<section>
